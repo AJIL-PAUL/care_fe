@@ -96,7 +96,7 @@
     "tailwindcss": "^1.8.10",
     "tslib": "^2.0.1",
     "typescript": "^3.9.7",
-    "uuid": "^8.3.0"
+    "uuid": "^8.3.2"
   },
   "scripts": {
     "prebuild": "npm run re:build && npm run generate-build-meta",
